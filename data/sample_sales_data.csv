@@ -1,0 +1,6 @@
+TransactionID,Product,Category,Region,UnitsSold,UnitPrice,Revenue
+1001,Laptop,Electronics,North,4,850,3400
+1002,Chair,Furniture,South,12,120,1440
+1003,Headphones,Electronics,East,25,45,1125
+1004,Monitor,Electronics,West,8,220,1760
+1005,Desk,Furniture,North,5,350,1750
